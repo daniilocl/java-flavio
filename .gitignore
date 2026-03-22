@@ -1,0 +1,17 @@
+# Compilados (Java)
+*.class
+out/
+target/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+atlassian-ide-plugin.xml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
